@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## Phase 2B.1 — Engineering Control Console Redesign
+**Status:** VERIFIED ✅
+
+- Manual testing: 10/10 PASS.
+- Approved SHA-256: `49338dbffd017306deaab325f3850ff437f4bd1596538ef89a738eafe866a012`.
+- Replaced seven simultaneous dashboard columns with a tabbed Engineering Control Console and permanently visible Quick Access Toolbar.
+- Added seven category tabs and displays only the active category workspace.
+- Reduced dashboard height from 156px to 112px, increasing the ruler-framed stage by approximately 44px vertically.
+- Preserved existing Workshop engineering behavior and Builder isolation.
+- Added no new engineering functionality.
+
+## Phase 1.5 — Engineering Workspace Version 1
+**Status:** VERIFIED AND LOCKED ✅
+
+- Phase 1.5 Engineering Workspace Version 1 verified and locked.
+- Known non-blocking issue: native hover tooltips for disabled future-tool buttons are not visibly appearing.
+
 ## Update #155 — THINKer Bob Workshop Rig Checkpoint
 **Status:** VERIFIED ✅
 
